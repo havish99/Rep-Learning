@@ -1,6 +1,6 @@
 # Requirements:
 ### PIL Library, Numpy
-### KMEANS:
+### K-Means:
 Tested on various images present in the folder. Optimal inputs being 5 clusters, threshold of 0.01 for "strips.jpg" and 4 clusters, threshold of 0.01 for "4-color.jpg".
 ### Input format:
 Expects number of clusters and error threshold. To visualize clusters, input the cluster number (follows zero indexing) when asked
